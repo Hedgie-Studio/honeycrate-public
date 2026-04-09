@@ -1,12 +1,7 @@
-{
-   {
-      "name": "mods",
-      "url": "https://raw.githubusercontent.com/Hedgie-Studio/honeycrate-public/refs/heads/main/mods.json",
-      "sha1": "mods"
-   },
-   {
-      "name": "manif",
-      "url": "https://raw.githubusercontent.com/Hedgie-Studio/honeycrate-public/refs/heads/main/mods.json",
-      "sha1": "mods"
-   }
-}
+[
+  {
+    "name": "mods",
+    "url": "https://raw.githubusercontent.com/Hedgie-Studio/honeycrate-public/refs/heads/main/mods.json",
+    "sha1": "mods"
+  }
+]
