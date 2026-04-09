@@ -1,5 +1,5 @@
 {
-   "mods": {
+   {
       "name": "mods",
       "url": "https://raw.githubusercontent.com/Hedgie-Studio/honeycrate-public/refs/heads/main/mods.json",
       "sha1": "mods"
